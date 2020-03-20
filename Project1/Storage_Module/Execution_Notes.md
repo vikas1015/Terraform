@@ -10,6 +10,8 @@
 mkdir -p ~/terraform/AWS/storage \
 cd ~/terraform/AWS/storage
 
+** Create main.tf, variables.tf, output.tf and then follow below steps **
+
 ## Initialize Terraform
 terraform init
 
