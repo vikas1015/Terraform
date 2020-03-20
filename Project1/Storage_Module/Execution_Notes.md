@@ -6,7 +6,7 @@
 
 # Tf Storage module: The S3 Bucket and Random ID
 
-### Environment setup:
+## Environment setup
 mkdir -p ~/terraform/AWS/storage \
 cd ~/terraform/AWS/storage
 
