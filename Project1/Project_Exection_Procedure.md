@@ -1,4 +1,4 @@
-# The S3 Bucket and Random ID
+# Tf Storage module: The S3 Bucket and Random ID
 
 ## Initialize Terraform
 terraform init
