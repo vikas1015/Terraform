@@ -1,8 +1,8 @@
 # In this project 1 We will creating 4 Terraform Modules. The below 3 modules are glued to "Root Module".
-## Root Module
-## Storage Module
-## Network Module
-## Compute Module
+## * Root Module
+## * Storage Module
+## * Network Module
+## * Compute Module
 
 # Tf Storage module: The S3 Bucket and Random ID
 
